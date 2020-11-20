@@ -24,7 +24,7 @@ $ npx eslint main.js
 ✖ 16 problems (16 errors, 0 warnings)
   12 errors and 0 warnings potentially fixable with the `--fix` option.
  
- After running
-    npx prettier  main.js --write code is formatted.
+ After running <br/>
+    $npx prettier  main.js --write code is formatted.
 
 
