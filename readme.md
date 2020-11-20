@@ -3,6 +3,7 @@ After running
 $ npx eslint main.js
 
 /Users/saieshwarreddybobbili/Documents/NBAD/week_10_testing/eslint-dev-environment/main.js
+<br/>
    4:20  error  Strings must use singlequote               quotes
    8:20  error  Strings must use singlequote               quotes
   12:20  error  Strings must use singlequote               quotes
